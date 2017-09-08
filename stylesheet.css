@@ -1,0 +1,31 @@
+`h{
+  font-size: 2.3em;
+  text-align: center;
+  color:#F00;
+}
+
+ div.scrollmenu{
+  background-color:#333;
+  overflow:auto;white-space:nowrap;
+}
+ div.scrollmenu{
+   display: inline-block;
+   color: white;
+   text-align: center;
+   padding: 14px;
+   text-decoration:none;
+ }
+ 
+  div.scrollmenu a:hover {
+    background-color: #777;
+  }
+  <!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>You Know Nothing About Power</title>
+  <link href="stylesheet.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+  
+  <div cl
